@@ -15,6 +15,7 @@ class App extends Component {
         <p className="App-intro">
 
           Use buttons below
+          to blabla
 
 
         </p>
